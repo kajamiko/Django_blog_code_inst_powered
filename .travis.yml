@@ -2,4 +2,4 @@
   python:
     - "3.4"
   script:
-    - SECRET_KEY = "whatever" ./manage.py test
+    - SECRET_KEY="whatever" ./manage.py test
